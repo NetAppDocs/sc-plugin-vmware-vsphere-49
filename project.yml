@@ -8,7 +8,9 @@ settings:
     harmony_enabled: true
   versions:
     - version-number: "4.9"
-      url: /sc-plugin-vmware-vsphere 
+      url: /sc-plugin-vmware-vsphere-49
+    - version-number: "5.0"
+      url: /sc-plugin-vmware-vsphere       
     - version-number: "4.8"
       url: /sc-plugin-vmware-vsphere-48
     - version-number: "4.7"
@@ -249,37 +251,4 @@ sidebar:
     - title: Legal notices
       url: /legal-notices.html
 
-homepage:
-  tiles:
-    - title: Get started
-      links:
-        - title: Release Notes
-          url: https://library.netapp.com/ecm/ecm_download_file/ECMLP2886207
-        - title: Learn about SCV
-          url: /scpivs44_concepts_overview.html
-        - title: Deployment requirements
-          url: /scpivs44_deployment_planning_and_requirements.html
-        - title: Quick start
-          url: /scpivs44_download_the_ova_open_virtual_appliance.html
-    - title: Protect VMs, VMDKs, and datastores
-      links:
-        - title: Protect your data
-          url: /scpivs44_protect_data_overview.html
-        - title: Restore from backups
-          url: /scpivs44_restore_from_backups_overview.html
-        - title: Use REST APIs
-          url: /scpivs44_rest_apis_overview.html
-    - title: Blogs & community
-      links:
-        - title: NetApp blog – SCV
-          url: https://blog.netapp.com/tag/snapcenter/
-        - title: NetApp community – SCV
-          url: https://community.netapp.com/t5/forums/filteredbylabelpage/board-id/backup-and-restore-discussions/label-name/snapcenter
-    - title: More resources
-      links:
-        - title: SnapCenter Software documentation
-          url: https://docs.netapp.com/us-en/snapcenter/index.html
-        - title: Documentation for earlier versions of SCV
-          url: https://mysupport.netapp.com/documentation/productlibrary/index.html?productID=63240
-        - title: NetApp Knowledge Base – SCV
-          url: https://kb.netapp.com/Advice_and_Troubleshooting/Data_Protection_and_Security/SnapCenter
+
