@@ -11,7 +11,7 @@ settings:
     - version-number: "4.9"
       url: /sc-plugin-vmware-vsphere-49
     - version-number: "5.0"
-      url: /sc-plugin-vmware-vsphere       
+      url: /sc-plugin-vmware-vsphere
     - version-number: "4.8"
       url: /sc-plugin-vmware-vsphere-48
     - version-number: "4.7"
