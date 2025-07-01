@@ -50,7 +50,6 @@ If you want to modify the name of a resource group, do not use the following spe
 
 % & * $ # @ ! \ / : * ? " < > - | ; ' , and space.
 // SNAPCDOC-359 updates
-
 An underscore character (_) is allowed.
 
 .Steps
